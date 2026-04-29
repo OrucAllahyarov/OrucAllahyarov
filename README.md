@@ -1,16 +1,26 @@
-## Hi there 👋
+Oruj Allahyarov
+Early in my data science journey, with a growing curiosity for quantitative finance.
 
-<!--
-**OrucAllahyarov/OrucAllahyarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focus
 
-Here are some ideas to get you started:
+Data science
+Statistics & probability
+Linear algebra & calculus
+Quantitative methods in finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech
+
+Python
+NumPy, Pandas, Jupyter
+Git & GitHub
+Learning: machine learning, quantitative finance
+
+Currently
+
+Building foundations in math and data science
+Exploring how data and models apply to financial problems
+Working on small projects along the way
+
+Links
+
+Contact: via GitHub
