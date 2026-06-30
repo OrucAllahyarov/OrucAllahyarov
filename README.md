@@ -16,7 +16,7 @@ Early in my data science journey, with a growing curiosity for quantitative fina
 - Python
 - NumPy, Pandas, Jupyter
 - Git & GitHub
-- Learning: machine learning, quantitative finance
+- Learning: machine learning, stochastic calculus
 
 **Currently**
 
