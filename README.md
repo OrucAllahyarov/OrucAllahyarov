@@ -14,9 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,anaconda,bash,git,github,githubactions,latex" />
-  </a>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="pandas"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" title="Seaborn"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" title="Google Colab"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/>
 </p>
 
 ---
@@ -48,18 +52,6 @@
 - 💹 Exploring how data and models apply to financial problems
 - 🧪 Working on small projects along the way
 
-<details>
-<summary>📚 Learning roadmap (click to expand)</summary>
-<br>
-
-- [x] Python fundamentals
-- [x] pandas & data wrangling
-- [x] scikit-learn / ML basics
-- [ ] Stochastic calculus
-- [ ] Quantum computing fundamentals
-
-</details>
-
 ### 📫 Links
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/allahyarovoruc)
@@ -74,10 +66,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" width="90%" />
 </p>
 
 </details>
