@@ -34,6 +34,7 @@
 ### 📫 Links
 
 - Contact: via GitHub
+- 💼 [LinkedIn](https://www.linkedin.com/in/allahyarovoruc)
 
 ---
 
