@@ -20,30 +20,30 @@
 
 ---
 
-### 🎯 Focus
-- Data science
-- Statistics & probability
-- Linear algebra & calculus
-- Quantitative methods in finance
+###  Focus
+- Data Science
+- Statistics & Probability
+- Linear Algebra & Calculus
+- Quantitative Methods in Finance
 
-### 🧠 Skills
-- 🤖 Machine Learning
-- 📈 Time Series Analysis
-- ⚡ Energy Prediction *(early-stage projects)*
-- ⚙️ Automation Engineering
-- 🔬 scikit-learn
-- 🐼 pandas & the Python data stack
+###  Skills
+-  Machine Learning
+-  Time Series Analysis
+-  Energy Prediction *(early-stage projects)*
+-  Automation Engineering
+-  scikit-learn
+-  pandas & the Python data stack
 
-### ⚛️ Interests
+###  Interests
 - Quantum Computing
 - Quantitative Finance
 
-### 🚧 Currently
-- 📐 Building foundations in math and data science
-- 💹 Exploring how data and models apply to financial problems
-- 🧪 Working on small projects along the way
+###  Currently
+-  Building foundations in math and data science
+-  Exploring how data and models apply to financial problems
+-  Working on small projects along the way
 
-### 📫 Links
+###  Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/allahyarovoruc)
 - Contact: via GitHub
 
