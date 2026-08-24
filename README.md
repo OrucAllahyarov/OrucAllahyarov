@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Oruj%20Allahyarov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://media1.tenor.com/m/decKaL0L-_8AAAAd/dexter-idk.gif" width="200"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Oruj</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-7aa2f7?style=flat-square" />
